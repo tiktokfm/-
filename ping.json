@@ -1,0 +1,13 @@
+{
+    "query": [
+        {
+            "number": 4,
+            "name": "Gucci",
+            "ip": "185.139.68.64",
+            "port": 1593,
+            "maxplayers": 100,
+            "online": 0,
+            "password": false
+        }
+    ]
+}
